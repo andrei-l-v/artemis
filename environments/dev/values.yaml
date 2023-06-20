@@ -23,4 +23,4 @@ ingress:
   tls:
     - secretName: artemis-dev-tls
       hosts:
-       - dev.alesco.click
+        - dev.alesco.click
