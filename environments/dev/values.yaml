@@ -14,5 +14,5 @@ ingress:
           pathType: ImplementationSpecific
   tls:
     - secretName: artemis-dev-tls
-     hosts:
+      hosts:
        - dev.alesco.click
